@@ -115,23 +115,7 @@ This approach keeps the project simple and focuses on core functionality.
 
 ---
 
-## 📌 Assumptions
-
-* Authentication is not required
-* Single user access
-* JSON database is sufficient for this assignment
-
----
-
-## 🔮 Future Improvements
-
-* Add authentication
-* Use a real database (MySQL / MongoDB)
-* Add search and filter options
-* Improve UI further
-* Deploy application
-
-
 ## 📎 Author
 
 **Thakshak Shetty**
+
